@@ -1,0 +1,63 @@
+body{
+    background-color: peachpuff;
+    font-family: Helvetica, sans-serif ;
+}
+
+nav ul {
+    text-align: center;
+background-color: sandybrown;
+border-style: solid;
+border-color: seashell;
+border-width: 2spx;
+border-radius: 10px;
+padding: 10px;
+
+}
+nav ul li{
+display: inline;
+list-style-type: none;
+margin-right: 10%;
+margin-left: 10%;
+color: papayawhip;
+
+}
+nav ul li{
+color: olivedrab;
+
+
+
+
+}
+nav ul li a{
+
+text-decoration: none;
+color: olive;
+}
+
+p{
+    margin-left: -1000;
+    background-color: sandybrown;
+    border-style: solid;
+    border-color: seashell;
+    border-width: 2px;
+    border-radius: 10px;
+    padding: 10px;
+    display: inline;
+    list-style-type: none;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: papayawhip;
+    text-align: center;
+    }
+
+
+    img{
+        border-style: solid;
+        border-width: 5px;
+        border-color: whitesmoke;
+        height: auto;
+        width: 50%;
+        margin-left: 10px;
+
+
+    }

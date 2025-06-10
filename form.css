@@ -1,0 +1,107 @@
+html{
+   background-image: url(background.webp);
+   background-size: cover;
+   background-repeat: none;
+}
+
+body{
+
+background: rgba(255, 255, 255,0.74);
+width: 90%;
+max-width: 800px;
+margin: 50px auto;
+font-family: 'raleway';
+padding: 20px;
+border-radius: 10px, 0;
+}
+
+
+
+h1,p{
+text-align: center;
+margin: auto;
+
+}
+
+label{
+
+display: block;
+margin: 0.5em;
+font-size: x-large;
+
+}
+
+input, select{
+display: block;
+width: 100%;
+font-size: 20px;
+padding: 0.3em;
+background-color: #fbfbfb;
+border: solid 1px #ccc;
+resize: vertical;
+border-radius: 10px;
+}
+
+input[type = checkbox], input[type= radio]
+{display: inline;
+width: auto;}
+
+
+
+
+.inline-label{
+display: inline;
+width: auto;
+
+}
+
+option{
+
+    color: black;
+    background-color: white;
+
+}
+
+select{
+
+
+    color: indigo;
+}
+
+
+button{
+
+    display: block;
+    width: 100%;
+    font-size: 20px;
+    padding: 0.3em;
+    background-color: #fbfbfb;
+    border: solid 1px #ccc;
+    resize: vertical;
+    border-radius: 10px;
+
+
+
+}
+
+
+input[type = submit]:hover,
+input[type = submit]:focus{
+outline: none;
+background: sandybrown;
+color: white
+}
+input[type = reset]:hover,
+input[type = reset]:focus{
+outline: none;
+background: sandybrown;
+color: white;
+}
+input[type = submit],
+input[type = reset]{
+outline: none;
+background: whitesmoke;
+color: black;
+margin-top: 1 em;
+border-radius: 10px;
+}

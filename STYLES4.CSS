@@ -1,0 +1,144 @@
+body{
+background-color: peachpuff;
+font-family: Helvetica, sans-serif ;
+
+
+}
+
+p{
+background-color: sandybrown;
+border-style: solid;
+border-color: seashell;
+border-width: 2px;
+border-radius: 10px;
+padding: 10px;
+display: inline;
+list-style-type: none;
+margin-right: 10px;
+margin-left: 10px;
+color: papayawhip;
+text-align: center;
+}
+body a{
+color: black;
+text-decoration: none;
+
+
+
+}
+
+h1{
+
+color: gray;
+font-family: 'Times New Roman', serif;
+
+}
+
+a{
+
+
+    color: slateblue;
+}
+
+nav ul {
+    text-align: center;
+background-color: sandybrown;
+border-style: solid;
+border-color: seashell;
+border-width: 2spx;
+border-radius: 10px;
+padding: 10px;
+
+}
+nav ul li{
+display: inline;
+list-style-type: none;
+margin-right: 10%;
+margin-left: 10%;
+color: papayawhip;
+
+}
+nav ul li{
+color: olivedrab;
+
+
+
+
+}
+nav ul li a{
+
+text-decoration: none;
+color: olive;
+}
+
+table,th,td{
+
+    border: 1px solid honeydew;
+    border-collapse: collapse;
+}
+tr{
+background-color: palegoldenrod;
+
+}
+th,td{
+vertical-align: top;
+    padding: 5px;
+    text-align: left;
+
+
+}
+th{
+color: purple;
+
+}
+td{
+
+    color: purple;
+}
+video{
+
+    margin-top: -20px;
+   
+}
+
+table{
+
+margin-left:  5px;
+    margin-top: -50px;
+}
+
+p{
+
+margin-left: 2px;
+
+
+
+}
+
+video{
+
+
+    margin-left: -100px;
+}
+
+video{
+
+border-style: dashed;
+border-width: 5px;
+border-color: whitesmoke;
+padding-top: 5px;
+padding-left: 5px;
+padding-bottom: 5px;
+padding-right: 5px;
+height: auto;
+width: 50%;
+}
+
+table{
+
+    border-style: solid;
+    border-width: 5px;
+
+
+
+}
